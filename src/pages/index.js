@@ -20,8 +20,9 @@ const Index = () => {
 
     useEffect(() => {
         const vanta = HALO({
+            xOffset: 0.25,
             el: ref.current,
-            xOffset: 0.25
+            backgroundColor: '#000',
         });
 
         return () => vanta.destroy();
