@@ -1,0 +1,15 @@
+{
+  "short_name": "Mateusz Wiater",
+  "name": "Mateusz Wiater's Personal Website",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "196x196 192x192 180x180 167x167 152x152 128x128 64x64 32x32 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
