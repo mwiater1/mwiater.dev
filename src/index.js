@@ -3,7 +3,7 @@ import "popper.js";
 import "bootstrap/dist/js/bootstrap.min"
 import './style.scss';
 // eslint-disable-next-line import/no-unresolved,import/no-webpack-loader-syntax
-import "expose-loader?THREE!three";
+import 'expose-loader?exposes[]=$&exposes[]=THREE!three';
 import React from 'react';
 import ReactDOM from 'react-dom';
 import Index from './pages';
